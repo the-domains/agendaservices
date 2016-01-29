@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[agendaservices]]></title>
         <description><![CDATA[agendaservices]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/agendaservices/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jan 2016 19:16:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 29 Jan 2016 19:16:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/agendaservices/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>careers</p>]]></description>
+            <link>https://thegrid.ai/agendaservices/0d2d3bd1-6a0a-4bfe-8bfd-b88f0f02ac00/index.html</link>
+            <guid isPermaLink="false">0d2d3bd1-6a0a-4bfe-8bfd-b88f0f02ac00</guid>
+            <pubDate>Fri, 29 Jan 2016 19:16:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>About us</p>]]></description>
-            <link>undefinedc60173c5-a14a-47d8-8121-227548bffeef/index.html</link>
+            <link>https://thegrid.ai/agendaservices/c60173c5-a14a-47d8-8121-227548bffeef/index.html</link>
             <guid isPermaLink="false">c60173c5-a14a-47d8-8121-227548bffeef</guid>
             <pubDate>Fri, 29 Jan 2016 19:16:11 GMT</pubDate>
         </item>
